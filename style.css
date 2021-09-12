@@ -1,13 +1,17 @@
 /* Style Settings */
-@import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
 :root {
     --bgColor: white;
     --accentColor: #2B2E2A;
-    --font: 'Karla', sans-serif;
+    --font: 'Rubik', sans-serif;
 }
 
 body{
     background-color: var(--bgColor);
+}
+
+i {
+    padding-right: 15px;
 }
 
 #userPhoto{
@@ -36,6 +40,11 @@ body{
     width: 100%;
     text-align: center;
     text-decoration: none;
+    padding-right: 20px;
+}
+
+.highlight {
+    color: #dfa900;
 }
 
 #links{
@@ -53,7 +62,7 @@ body{
     margin-bottom: 20px;
     padding: 17px;
     text-decoration: none;
-    font-size: 1rem;
+    font-size: 1.2rem;
     transition: all .25s cubic-bezier(.08,.59,.29,.99);
     border: solid var(--accentColor) 2px;
 }
