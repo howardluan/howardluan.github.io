@@ -2,12 +2,12 @@ BEGIN:VCARD
 VERSION:3.0
 FN;CHARSET=UTF-8:Howard Luan
 N;CHARSET=UTF-8:Luan;Howard;;Mr;
-EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:Howard.Luan@dal.ca
-TEL;TYPE=CELL:9029818090
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:Howard.Luan@dal.ca
+TEL;TYPE=WORK,VOICE:9029818090
 ADR;CHARSET=UTF-8;TYPE=HOME:;;;Halifax;Nova Scotia;B3N 0G7;Canada
-TITLE;CHARSET=UTF-8:Computer Science
+TITLE;CHARSET=UTF-8:Bachelor of Computer Science
 ORG;CHARSET=UTF-8:Dalhousie University
-URL;type=WORK;CHARSET=UTF-8:https://howardluan.github.io/
-X-SOCIALPROFILE;CHARSET=UTF-8;TYPE=linkedin:https://www.linkedin.com/in/howardluan/
-REV:2021-09-12T15:58:45.074Z
+URL;CHARSET=UTF-8:https://www.linkedin.com/in/howardluan/
+URL;type=WORK;CHARSET=UTF-8:https://howardluan.github.io
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/howardluan/
 END:VCARD
